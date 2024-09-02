@@ -1,0 +1,18 @@
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore specific files
+comp_mol_export_CCC_t_280424.csv
+comp_mol_export_CCC_vol_010524.csv
+
+# Ignore all files in the temp directory
+temp/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore all .env files in any directory
+**/.env
